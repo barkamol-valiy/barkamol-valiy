@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning Node JS Backend
 - 📫 How to reach me barkamol.valiy@gmail.com
-- 😄 Pronouns: He
 - ⚡ Fun fact: I can build c++ Compiler
 
 <!---
